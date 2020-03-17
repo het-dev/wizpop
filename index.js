@@ -1,3 +1,3 @@
-export default function helloWizpop(string) {
-  console.log("helloWizpop");
-}
+import wizpop from "./wizpop";
+
+export default wizpop;
